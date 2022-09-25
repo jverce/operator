@@ -1,0 +1,6 @@
+apiVersion: main.kups.dev/v1
+kind: App
+metadata:
+  name: app-sample
+spec:
+  # TODO(user): Add fields here
