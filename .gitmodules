@@ -1,3 +1,0 @@
-[submodule "operator-sdk"]
-	path = operator-sdk
-	url = git@github.com:operator-framework/operator-sdk.git
